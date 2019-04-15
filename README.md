@@ -1,5 +1,5 @@
 # TABS-COMPONENTS
-
+# Tom Exarhakis 
 Topics:
 
 * Constructors with ES6 class syntax
